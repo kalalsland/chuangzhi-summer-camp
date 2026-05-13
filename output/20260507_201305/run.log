@@ -1,0 +1,14 @@
+# cmd: C:\Python313\python.exe -u E:\AliceInCradle\Harness Engineering考试\student_package\chuangzhi-summer-camp\run.py --help
+# cwd: E:\AliceInCradle\Harness Engineering考试\student_package\chuangzhi-summer-camp
+# started_at: 2026-05-07T20:13:05
+------------------------------------------------------------
+usage: run.py [-h] [--train TRAIN] [--dev DEV] [--workers WORKERS]
+              [--max-prompt-tokens MAX_PROMPT_TOKENS] [--runs RUNS]
+
+options:
+  -h, --help            show this help message and exit
+  --train TRAIN
+  --dev DEV
+  --workers WORKERS
+  --max-prompt-tokens MAX_PROMPT_TOKENS
+  --runs RUNS

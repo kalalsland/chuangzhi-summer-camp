@@ -1,0 +1,26 @@
+{
+  "timestamp": "20260507_220311",
+  "cmd": [
+    "C:\\Python313\\python.exe",
+    "-u",
+    "E:\\AliceInCradle\\Harness Engineering考试\\student_package\\chuangzhi-summer-camp\\run.py",
+    "--runs",
+    "1",
+    "--workers",
+    "4"
+  ],
+  "forwarded_args": [
+    "--runs",
+    "1",
+    "--workers",
+    "4"
+  ],
+  "cwd": "E:\\AliceInCradle\\Harness Engineering考试\\student_package\\chuangzhi-summer-camp",
+  "started_at": "2026-05-07T22:03:11",
+  "finished_at": "2026-05-07T22:32:42",
+  "elapsed_seconds": 1771.26,
+  "exit_code": 0,
+  "python": "3.13.3",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "host": "LAPTOP-7M6FV2D1"
+}
